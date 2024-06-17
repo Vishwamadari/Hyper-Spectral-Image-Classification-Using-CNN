@@ -9,7 +9,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/nithinhd/HyperSpectral-Image-Classification.git
+    git clone https://github.com/Vishwamadari/Hyper-Spectral-Image-Classification-Using-CNN
     ```
 
 2. Install the required dependencies:
