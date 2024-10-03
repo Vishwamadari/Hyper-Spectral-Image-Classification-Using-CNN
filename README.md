@@ -1,4 +1,4 @@
-# Hyper-Spectral-Image-Classification-Using-CNN
+# Hyper-Spectral-Image-Classification-Using-Autoencoders-and-CNN
 
 This project aims to develop a hyper-spectral image classification system. The system will take hyper-spectral images as input and classify each pixel into different land cover classes.
 
